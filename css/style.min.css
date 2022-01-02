@@ -557,6 +557,7 @@ footer {
 .profile-links {
     margin: 2px;
     cursor: pointer;
+    color: black;
 }
 
 .short-info {
